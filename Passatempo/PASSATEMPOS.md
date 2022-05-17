@@ -1,6 +1,6 @@
 #### Passatempos :space_invader:
 
-- Clipe personalizável da artista Doja Cat em parceria com a Girls Who Code. O usuário pode escolher algumas ações durante o vídeo, alterando o código. As linguagens utilizadas foram CSS, Javascript e Python. Foi uma ação a fim de atrair mais mulheres para a programação.
+- Clipe personalizável da artista Doja Cat em parceria com a Girls Who Code. O usuário pode escolher algumas ações durante o vídeo, alterando o código. As linguagens utilizadas são CSS, Javascript e Python. Foi uma ação a fim de atrair mais mulheres para a programação.
 
   https://dojacode.com/
 
